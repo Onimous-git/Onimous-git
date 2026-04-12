@@ -56,7 +56,3 @@
 📧 [tuede311@gmail.com](mailto:tuede311@gmail.com)
 
 ---
-
-<p align="center">
-⚡ I love breaking things to understand how they work.
-</p>
